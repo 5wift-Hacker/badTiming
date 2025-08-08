@@ -27,82 +27,83 @@ struct Stretch: Identifiable, Hashable {
 
 
 //Stretch Instructions
+//✅
 let lyingRightHamstringStretchInstructions = [
     "Lie on your back.",
     "Lift your right leg straight up towards the ceiling",
     "Keep your leg as straight as possible."
 ]
-
+//✅
 let lyingLeftHamstringStretchInstructions = [
     "Lie on your back.",
     "Lift your left leg straight up towards the ceiling",
     "Keep your leg as straight as possible."
 ]
-
+//✅
 let headToLeftShoulderPullInstructions = [
     "Sit upright",
     "Wrap your left arm around your back",
     "Tilt your head to the right, towards your right shoulder",
     "Take your right hand and gently pull your head towards your right shoulder"
 ]
-
+//✅
 let headToRightShoulderPullInstructions = [
     "Sit upright",
     "Wrap your right arm around your back",
     "Tilt your head to the left, towards your left shoulder",
     "Take your left hand and gently pull your head towards your left shoulder"
 ]
-
+//✅
 let lyingRightKneeToChestInstructions = [
     "Lie on your back.",
     "Bend your right knee and pull it towards your chest with your hands.",
 ]
-
+//✅
 let lyingLeftKneeToChestInstructions = [
     "Lie on your back.",
     "Bend your left knee and pull it towards your chest with your hands.",
 ]
-
+//✅
 let supineTwistLeftInstructions = [
     "Lie on your back",
     "Keep your knees bent and feet flat on the bed.",
     "Let your knees fall to the left side while keeping your shoulders on the bed.",
     "Return to center at the end.",
     ]
-
+//✅
 let supineTwistRightInstructions = [
     "Lie on your back",
     "Keep your knees bent and feet flat on the bed.",
     "Let your knees fall to the right side while keeping your shoulders on the bed.",
     "Return to center at the end.",
     ]
-
+//✅
 let legsUpInstructions = [
     "Lie on your back.",
     "Raise both legs straight up towards the ceiling, (or rest them against a wall if possible)",
     ]
-
+//✅
 let quadStretchRightInstructions = [
     "Lie on your right side",
     "Grab the front of your left foot",
     "Pull your heel toward buttock",
     "Keep your knees together",
 ]
-
+//✅
 let quadStretchLeftInstructions = [
     "Lie on your left side", 
     "Grab the front of your right foot",
     "Pull your heel toward buttock",
     "Keep your knees together",
 ]
-
+//✅
 let standingCalfRightInstructions = [
     "Stand up",
     "Step right leg back",
     "Press your heel down",
     "Lean forward, keeping your heel as flat as possible"
 ]
-
+//✅
 let standingCalfLeftInstructions = [
     "Stand up",
     "Step left leg back",
@@ -121,52 +122,52 @@ let legsUp = Stretch(
 
 let supineTwistLeft = Stretch(
     name: "Lower Back (Left)",
-    image: "supinel",
+    image: "supinetwistL",
     instructions: supineTwistLeftInstructions)
 
 let supineTwistRight = Stretch(
     name: "Lower Back (Right)",
-    image: "supiner",
+    image: "supinetwistR",
     instructions: supineTwistRightInstructions)
 
 let lyingRightKneeToChest = Stretch(
     name: "Glutes (Right)",
-    image: "glutesr",
+    image: "kneetochestR",
     instructions: lyingRightKneeToChestInstructions)
 
 let lyingLeftKneeToChest = Stretch(
     name: "Glutes (Left)",
-    image: "glutesl",
+    image: "kneetochestL",
     instructions: lyingLeftKneeToChestInstructions)
 
 let lyingRightHamstringStretch = Stretch(
     name: "Hamstrings (Right)",
-    image: "lyinghamstringr",
+    image: "lyinghamstringR",
     instructions: lyingRightHamstringStretchInstructions)
 
 let lyingLeftHamstringStretch = Stretch(
     name: "Hamstrings (Left)",
-    image: "lyinghamstringl",
+    image: "lyinghamstringL",
     instructions: lyingLeftHamstringStretchInstructions)
 
 let lyingQuadLeft = Stretch(
     name: "Quads (Left)",
-    image: "quad",
+    image: "lyingquadL",
     instructions: quadStretchLeftInstructions)
 
 let lyingQuadRight = Stretch(
     name: "Quads (Right)",
-    image: "quad",
+    image: "lyingquadR",
     instructions: quadStretchRightInstructions)
 
 let standingCalfRight = Stretch(
     name: "Standing Calf (Right)",
-    image: "standingcalf",
+    image: "standingcalfR",
     instructions: standingCalfRightInstructions)
 
 let standingCalfLeft = Stretch(
     name: "Standing Calf (Left)",
-    image: "standingcalf",
+    image: "standingcalfL",
     instructions: standingCalfLeftInstructions)
 
 //Upper Body
