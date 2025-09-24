@@ -44,6 +44,8 @@ struct StretchSelectionView: View {
                 
                 Image("cherry")
                     .resizable()
+                    .scaledToFill()
+                    .aspectRatio(contentMode: .fill)
                     .ignoresSafeArea()
                 
                 ScrollView {
@@ -51,6 +53,8 @@ struct StretchSelectionView: View {
                         StretchSets(path: $path)
                     }
                     .padding(.top, 30)
+                    
+                    .frame(width: 400, height: 200)
                 }
             }
             .navigationTitle("Stretch Sets")

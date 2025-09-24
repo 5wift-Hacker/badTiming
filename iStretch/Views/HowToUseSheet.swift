@@ -14,6 +14,12 @@ struct HowToUseView: View {
     var body: some View {
         NavigationStack {
             ZStack {
+                
+                Image("cherry")
+                    .resizable()
+                    .scaledToFill()
+                    .blur(radius: 10)
+                    .ignoresSafeArea()
                
                 VStack(alignment: .leading, spacing: 50) {
                     

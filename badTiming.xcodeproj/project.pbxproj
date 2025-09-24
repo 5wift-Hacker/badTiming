@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		30C92F9A2DE152EB0008935A /* iStretch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iStretch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		30C92F9A2DE152EB0008935A /* badTiming.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = badTiming.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		30C92F9B2DE152EB0008935A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				30C92F9A2DE152EB0008935A /* iStretch.app */,
+				30C92F9A2DE152EB0008935A /* badTiming.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		30C92F992DE152EB0008935A /* iStretch */ = {
+		30C92F992DE152EB0008935A /* badTiming */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 30C92FA52DE152ED0008935A /* Build configuration list for PBXNativeTarget "iStretch" */;
+			buildConfigurationList = 30C92FA52DE152ED0008935A /* Build configuration list for PBXNativeTarget "badTiming" */;
 			buildPhases = (
 				30C92F962DE152EB0008935A /* Sources */,
 				30C92F972DE152EB0008935A /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				30C92F9C2DE152EB0008935A /* iStretch */,
 			);
-			name = iStretch;
+			name = badTiming;
 			packageProductDependencies = (
 			);
 			productName = iStretch;
-			productReference = 30C92F9A2DE152EB0008935A /* iStretch.app */;
+			productReference = 30C92F9A2DE152EB0008935A /* badTiming.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 30C92F952DE152EB0008935A /* Build configuration list for PBXProject "iStretch" */;
+			buildConfigurationList = 30C92F952DE152EB0008935A /* Build configuration list for PBXProject "badTiming" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				30C92F992DE152EB0008935A /* iStretch */,
+				30C92F992DE152EB0008935A /* badTiming */,
 			);
 		};
 /* End PBXProject section */
@@ -311,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		30C92F952DE152EB0008935A /* Build configuration list for PBXProject "iStretch" */ = {
+		30C92F952DE152EB0008935A /* Build configuration list for PBXProject "badTiming" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				30C92FA32DE152ED0008935A /* Debug */,
@@ -320,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		30C92FA52DE152ED0008935A /* Build configuration list for PBXNativeTarget "iStretch" */ = {
+		30C92FA52DE152ED0008935A /* Build configuration list for PBXNativeTarget "badTiming" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				30C92FA62DE152ED0008935A /* Debug */,
