@@ -7,8 +7,10 @@
 
 import SwiftUI
 
+//rename app to "Bad Timing"
+
 @main
-struct iStretchApp: App {
+struct badTiming: App {
     var body: some Scene {
         WindowGroup {
             StretchSelectionView()

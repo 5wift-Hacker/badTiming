@@ -39,6 +39,7 @@ struct HowToUseView: View {
                         .bold()
                         .padding(.bottom)
                 }
+                .padding(.top)
             })
             .navigationTitle("How To Use The App")
             .toolbar {
