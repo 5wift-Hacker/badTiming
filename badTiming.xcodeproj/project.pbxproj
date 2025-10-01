@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		30C92F9C2DE152EB0008935A /* iStretch */ = {
+		30C92F9C2DE152EB0008935A /* badTiming */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = iStretch;
+			path = badTiming;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		30C92F912DE152EB0008935A = {
 			isa = PBXGroup;
 			children = (
-				30C92F9C2DE152EB0008935A /* iStretch */,
+				30C92F9C2DE152EB0008935A /* badTiming */,
 				30C92F9B2DE152EB0008935A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				30C92F9C2DE152EB0008935A /* iStretch */,
+				30C92F9C2DE152EB0008935A /* badTiming */,
 			);
 			name = badTiming;
 			packageProductDependencies = (
