@@ -13,7 +13,7 @@ A portfolio SwiftUI app showcasing modern glass-themed iOS development. Initiall
 
 | Loading & Auto-Scrolling | Liquid Glass Tab Bar |
 |---------------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action"> |
+| <img src="https://github.com/user-attachments/assets/b646b29d-4a1d-47e0-83ff-90ef11cc56a2" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action"> |
 
 | Using the App (Quote Fetch) | Using the App (Image Fetch) |
 |-----------------------------|-------------------------------|
