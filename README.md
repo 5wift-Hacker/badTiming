@@ -13,11 +13,11 @@ A portfolio SwiftUI app showcasing modern glass-themed iOS development. Initiall
 
 | Glass-Like Info Screen | Liquid Glass Tab Bar |
 |---------------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/194feea0-58b5-4485-8e37-e3d758eaaf2f" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action"> |
+| <img src="https://github.com/user-attachments/assets/194feea0-58b5-4485-8e37-e3d758eaaf2f" width="250" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="250" alt="Liquid Glass Tab Bar in Action"> |
 
 | Using the App (Quote Fetch) | Using the App (Image Fetch) |
 |-----------------------------|-------------------------------|
-| <img src="https://github.com/user-attachments/assets/a57cb0ec-56bb-4a63-aac9-28200fb51c8a" width="300" alt="Fetching a Random Quote"> | <img src="https://github.com/user-attachments/assets/89774dec-d18a-44d8-8f7c-bfba78611a12" width="300" alt="Fetching a Random Episode">
+| <img src="https://github.com/user-attachments/assets/a57cb0ec-56bb-4a63-aac9-28200fb51c8a" width="250" alt="Fetching a Random Quote"> | <img src="https://github.com/user-attachments/assets/89774dec-d18a-44d8-8f7c-bfba78611a12" width="250" alt="Fetching a Random Episode">
 
 ## 🚀 Quick Start
 
