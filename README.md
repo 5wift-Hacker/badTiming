@@ -19,7 +19,6 @@ A portfolio SwiftUI app showcasing modern glass-themed iOS development. Initiall
 |-----------------------------|-------------------------------|
 | <img src="https://github.com/user-attachments/assets/a57cb0ec-56bb-4a63-aac9-28200fb51c8a" width="300" alt="Fetching a Random Quote"> | <img src="https://github.com/user-attachments/assets/89774dec-d18a-44d8-8f7c-bfba78611a12" width="300" alt="Fetching a Random Episode">
 
-
 ## 🚀 Quick Start
 
 1. Clone the repo: `git clone <your-repo-url>`
