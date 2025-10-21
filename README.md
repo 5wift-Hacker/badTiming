@@ -13,8 +13,4 @@ A portfolio SwiftUI app showcasing modern glass-themed iOS development. Initiall
 
 | Glass-Like Info Screen | Button Animation |
 |---------------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/194feea0-58b5-4485-8e37-e3d758eaaf2f" width="250" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/6e12f471-1c09-4156-8a9d-855c82c99ee0" width="250" alt="Liquid Glass Tab Bar in Action"> |
-
-| Using the App (Quote Fetch) | Using the App (Image Fetch) |
-|-----------------------------|-------------------------------|
-| <img src="INSERT GIF HERE" width="250" alt="Fetching a Random Quote"> | <img src="INSERT GIF HERE" width="250" alt="Fetching a Random Episode">
+| <img src="https://github.com/user-attachments/assets/194feea0-58b5-4485-8e37-e3d758eaaf2f" width="250" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/6e12f471-1c09-4156-8a9d-855c82c99ee0" width="250" alt="Liquid Glass Tab Bar in Action">
